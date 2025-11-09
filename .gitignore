@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# 環境變數
+.env
+
+# 輸出檔案
+*.json
+*.csv
+*.xlsx
+
+# 瀏覽器驅動
+chromedriver
+geckodriver
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
